@@ -49,10 +49,11 @@ Here displays the completion of the virtual network being successfully completed
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/b1ef1525-2541-4acc-a676-bb8a5d4a5022" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot showcases the Azure portal displaying the deployment details of the Windows Server virtual machine, configured to act as the domain controller. Key information includes the VM name, resource group, type, status, and operation specifications. The configuration settings confirm that the VM is ready for deployment, establishing the foundation for Active Directory services in the Azure environment.
 </p>
 <br />
 
