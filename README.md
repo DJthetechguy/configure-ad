@@ -35,16 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img width="1920" height="977" alt="image" src="https://github.com/user-attachments/assets/0d865f06-1609-4cc7-9144-5bb2dac81961" />
 
 </p>
-This screenshot displays the Azure portal interface where the resource group for the Active Directory deployment have been successfully created. The resource group acts as a container for managing related Azure resources, providing a centralized location for organization and access control. 
-</p>
-<br />
-
-<p>
-<img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/efe32fa6-361e-4399-b7ba-d4d7772853ed" />
-
-</p>
-<p>
-Here displays the completion of the virtual network being successfully completed. The virtual network facilitates secure communication between all deployed resources within the group, ensuring that the domain controller and client VMs can interact seamlessly. The configuration details, such as the resource group name, location, and virtual network address space, are visible, demonstrating the initial steps taken to establish the infrastructure for the lab environment.
+This screenshot displays the Azure portal interface where the resource group and network for the Active Directory deployment have been successfully created. The resource group acts as a container for managing related Azure resources, providing a centralized location for organization and access control. The configuration details, such as the resource group name, location, and virtual network address space, are visible, demonstrating the initial steps taken to establish the infrastructure for the lab environment.
 </p>
 <br />
 
@@ -58,7 +49,8 @@ This screenshot showcases the Azure portal displaying the deployment details of 
 <br />
 
 <p>
-<img width="1920" height="968" alt="image" src="https://github.com/user-attachments/assets/9f5f981f-2125-473e-8e99-51707f7521e8" />
+<img width="1920" height="970" alt="image" src="https://github.com/user-attachments/assets/8cdbe28e-b38c-4709-b8a5-e89ed3cbcbd3" />
+
 
 </p>
 <p>
@@ -67,9 +59,10 @@ This screenshot highlights the DNS configuration settings for the client virtual
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/c8312aec-7d0e-4930-a12a-612f7ad6b2a7" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot captures the process of joining the client virtual machine to the Active Directory domain in the Azure environment. It displays the system settings where the user initiates the domain join by entering the domain name, which corresponds to the domain controller’s configuration. Confirmation messages indicate the successful connection to the domain, along with prompts to enter domain credentials if necessary. This process is crucial for integrating the client into the directory services, granting access to resources and enabling centralized management of user accounts and permissions within the network.
 </p>
 <br />
