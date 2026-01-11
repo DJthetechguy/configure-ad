@@ -58,10 +58,11 @@ This screenshot showcases the Azure portal displaying the deployment details of 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1920" height="968" alt="image" src="https://github.com/user-attachments/assets/9f5f981f-2125-473e-8e99-51707f7521e8" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot highlights the DNS configuration settings for the client virtual machine in the Azure portal. It shows the specified DNS server settings, with the client VM pointing to the static private IP address of the domain controller. This configuration is essential for enabling the client VM to successfully resolve domain names and communicate with the Active Directory services hosted on the domain controller, ensuring seamless integration within the network.
 </p>
 <br />
 
