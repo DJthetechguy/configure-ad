@@ -25,8 +25,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create Azure Resource Group and Virtual Network
-- Deploy Domain Controller VM and Assign Static IP
 - Deploy Client VM and Configure DNS
+- Deploy Domain Controller VM and Assign Static IP
 - Join Client VM to Active Directory Domain
 
 <h2>Deployment and Configuration Steps</h2>
@@ -59,7 +59,8 @@ This screenshot highlights the DNS configuration settings for the client virtual
 <br />
 
 <p>
-<img width="1920" height="972" alt="image" src="https://github.com/user-attachments/assets/c8312aec-7d0e-4930-a12a-612f7ad6b2a7" />
+<img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/cd14cbaf-833e-4c57-8364-f3fb303f9ae9" />
+
 
 </p>
 <p>
