@@ -40,10 +40,11 @@ This screenshot displays the Azure portal interface where the resource group for
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/efe32fa6-361e-4399-b7ba-d4d7772853ed" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here displays the completion of the virtual network being successfully completed. The virtual network facilitates secure communication between all deployed resources within the group, ensuring that the domain controller and client VMs can interact seamlessly. The configuration details, such as the resource group name, location, and virtual network address space, are visible, demonstrating the initial steps taken to establish the infrastructure for the lab environment.
 </p>
 <br />
 
